@@ -1,0 +1,24 @@
+{
+  "name": "Teste-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoRech1997/Teste-API.git"
+  },
+  "keywords": [],
+  "author": "Thiago Fernando Rech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoRech1997/Teste-API/issues"
+  },
+  "homepage": "https://github.com/ThiagoRech1997/Teste-API#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
